@@ -1,0 +1,20 @@
+name: HungarianBlood Clan Family
+key: hungarianblood
+color: red
+emblem: flag_b_02
+info:
+  logo: https://imgur.com/a/dOcJWoD
+  description: >
+    The HungarianBlood family is one of the oldest established clans in Hungary with 3 clans.
+
+
+    Add new line with 2 line breaks as above.
+  social:
+   - website: https://royaleapi.com/clan/family/hungarianblood/clans
+clans:
+  - name: HungarianBlood
+    tag: R0UGRR
+  - name: HungarianBlood2
+    tag: 8YJR9UYG
+  - name: HungarianBlood3
+    tag: 82J02VLY
